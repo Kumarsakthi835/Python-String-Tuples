@@ -87,6 +87,7 @@ operations. The assignment was completed using Google Colab.
 
 ### Task 4 – Tuple Operations Output
 <img width="371" height="302" alt="image" src="https://github.com/user-attachments/assets/d07a3091-4d13-4579-bd8e-6b596ff03e99" />
+<img width="581" height="88" alt="image" src="https://github.com/user-attachments/assets/5fca21a2-35c0-4597-ad4c-7de586060732" />
 
 
 ---
@@ -126,4 +127,4 @@ operations. The assignment was completed using Google Colab.
 ## 👨‍💻 Author
 
 **Kumar S**
-- Data Analyst
+Data Analyst
